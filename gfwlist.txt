@@ -277,3 +277,4 @@ yt.be
 ytimg.com
 k8s.io
 pkg.dev
+gcr.io
