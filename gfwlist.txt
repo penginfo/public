@@ -275,3 +275,5 @@ youtubegaming.com
 youtubekids.com
 yt.be
 ytimg.com
+k8s.io
+pkg.dev
