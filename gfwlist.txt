@@ -278,3 +278,8 @@ ytimg.com
 k8s.io
 pkg.dev
 gcr.io
+ghcr.io
+elastic.co
+nvcr.io
+zalan.do
+canonical.com
